@@ -10,7 +10,7 @@
 
 #### My background includes nearly three years of English studies at university level, which I left to pursue programming. My experience with technology extends to proficient use of Adobe Photoshop, Microsoft Office, and music production software like FL Studio.
 
-#### Currently, I am focusing on becoming adept at C# and its related tools. Recently, however, I have also found a new interest in cyber security which I hope will come in handy in my future projects.
+#### Currently, I am focusing on becoming adept at C# and its related tools. Recently, I also found a new interest in cyber security which I hope will come in handy in my future projects.
 
 ---
 
