@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**SodenSys/SodenSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Dennis.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### I am studying to become a system developer specializing in DevSecOps. My background includes nearly three years of English studies at university, which I left to pursue programming. My experience with technology extends to proficient use of Photoshop, Microsoft Office, and music production software like FL Studio.
+
+###### Currently, I am focusing on learning C#, building on my extensive computer experience to develop new skills in programming. 
+
+<div align="center">
+
+### Featured project
+
+[![safeLockr](https://github.com/SodenSys/safeLockr/blob/main/safeLockr1.png)](https://github.com/SodenSys/safeLockr)
+
+**[safeLockr](https://github.com/SodenSys/safeLockr)**
+
+</div>
+
+---
+
+I am keen to engage with others in the field and exchange knowledge. If you have advice, questions, or opportunities for collaboration, I welcome your input.
