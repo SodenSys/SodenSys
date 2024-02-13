@@ -1,14 +1,22 @@
 <div align="center">
 
-### I am studying to become a system developer specializing in DevSecOps. 
+#### Currently studying: System Developer, DevSecOps.
 
-### My background includes nearly three years of English studies at university level, which I left to pursue programming. My experience with computers extends to proficient use of (among other things) Adobe Photoshop, Microsoft Office, and music production software like FL Studio.
+<br>
 
-### Currently, I am focusing on becoming better at C# and its related tools.
+#### Experience includes:
+#### - Microsoft Office
+#### - Adobe Photoshop
+#### - FL Studio (Music Software)
+#### - C#, SQL, and some C.
 
----
+<br>
 
-### Featured project:
+#### Currently focusing on becoming better at C# and its related tools.
+
+<br>
+
+#### Featured project:
 
 <a href="https://github.com/SodenSys/safeLockr">
   <img src="https://github.com/SodenSys/safeLockr/blob/main/safeLockr1.png" width="200" alt="safeLockr">
