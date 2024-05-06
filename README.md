@@ -6,17 +6,17 @@
 
 ### Experience includes, but not limited to:
 #### :zap: Microsoft Office
-#### - Adobe Photoshop
-#### - FL Studio (Music Software)
-#### - C#, SQL, and some C.
-#### - Agile methodology and CI/CD
+#### :zap: Adobe Photoshop
+#### :zap: FL Studio (Music Software)
+#### :zap: C#, SQL, and some C.
+#### :zap: Agile methodology and CI/CD
 
 <br>
 
 ### Currently focusing on:
-#### - Network management and cybersecurity
-#### - Container technology, CM, and automization
-#### - Becoming better at C# and its related tools.
+#### :memo: Network management and cybersecurity
+#### :memo: Container technology, CM, and automization
+#### :memo: Becoming better at C# and its related tools.
 
 <br>
 
