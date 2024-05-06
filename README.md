@@ -4,11 +4,15 @@
 
 <br>
 
-### Experience includes:
-### - Microsoft Office
-### - Adobe Photoshop
-### - FL Studio (Music Software)
-### - C#, SQL, and some C.
+### Experience includes, but not limited to:
+#### - Microsoft Office
+#### - Adobe Photoshop
+#### - FL Studio (Music Software)
+#### - C#, SQL, and some C.
+### - 
+### - 
+### - 
+### - 
 
 <br>
 
