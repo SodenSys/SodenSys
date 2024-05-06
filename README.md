@@ -5,7 +5,7 @@
 <br>
 
 ### Experience includes, but not limited to:
-####    - Microsoft Office
+#### :zap: Microsoft Office
 #### - Adobe Photoshop
 #### - FL Studio (Music Software)
 #### - C#, SQL, and some C.
