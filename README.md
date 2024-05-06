@@ -1,22 +1,22 @@
 <div align="center">
 
-## Currently studying: System Developer, DevSecOps.
+### Currently studying: System Developer, DevSecOps.
 
 <br>
 
-## Experience includes:
-## - Microsoft Office
-## - Adobe Photoshop
-## - FL Studio (Music Software)
-## - C#, SQL, and some C.
+### Experience includes:
+### - Microsoft Office
+### - Adobe Photoshop
+### - FL Studio (Music Software)
+### - C#, SQL, and some C.
 
 <br>
 
-## Focusing on becoming better at C# and its related tools.
+### Focusing on becoming better at C# and its related tools.
 
 <br>
 
-## Featured project:
+### Featured project:
 
 <a href="https://github.com/SodenSys/safeLockr">
   <img src="https://github.com/SodenSys/safeLockr/blob/main/safeLockr1.png" width="200" alt="safeLockr">
