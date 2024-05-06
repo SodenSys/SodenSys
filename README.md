@@ -5,14 +5,13 @@
 <br>
 
 ### Experience includes, but not limited to:
-#### - Microsoft Office
-#### - Adobe Photoshop
-#### - FL Studio (Music Software)
-#### - C#, SQL, and some C.
-### - 
-### - 
-### - 
-### - 
+### - Microsoft Office
+### - Adobe Photoshop
+### - FL Studio (Music Software)
+### - C#, SQL, and some C.
+### - Agile methodology and CI/CD
+### - Network management and cybersecurity
+### - Container technology, CM, and automization
 
 <br>
 
