@@ -10,12 +10,13 @@
 ### - FL Studio (Music Software)
 ### - C#, SQL, and some C.
 ### - Agile methodology and CI/CD
-### - Network management and cybersecurity
-### - Container technology, CM, and automization
 
 <br>
 
-### Focusing on becoming better at C# and its related tools.
+### Currently focusing on:
+### - Network management and cybersecurity
+### - Container technology, CM, and automization
+### - Becoming better at C# and its related tools.
 
 <br>
 
