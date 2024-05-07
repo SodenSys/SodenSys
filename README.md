@@ -1,6 +1,6 @@
 <div align="center">
 
-### Currently studying: System Developer, DevSecOps.
+### Currently studying: System developer (DevSecOps)
 
 <br>
 
