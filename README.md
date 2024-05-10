@@ -14,8 +14,6 @@
 <br>
 
 ### :memo: Currently focusing on: :memo:
-#### - Network management and cybersecurity
-#### - Container technology, CM, and automization
 #### - Becoming better at C# and its related tools.
 
 <br>
